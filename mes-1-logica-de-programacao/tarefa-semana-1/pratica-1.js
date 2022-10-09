@@ -1,5 +1,11 @@
-let nome = "João-Franca"
-let email = "francapedro10@gmail.com"
-let profissao = "Autônomo"
-let idade = 20 
-let o lugar que sonho em conhecer = "Dubai"
+let nome
+let email
+let profissao
+let idade
+let sonho
+
+nome = 'Joao Franca'
+email = 'francapedro10@gmail.com'
+profissao = 'Autonomo'
+idade = 20
+sonho = 'conhecer Dubai'
