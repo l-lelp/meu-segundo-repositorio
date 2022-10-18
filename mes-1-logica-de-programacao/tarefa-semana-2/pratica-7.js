@@ -1,7 +1,12 @@
 // Tradutor de "Hello World!"
 
-function tradutorAutomatico(en) {
-console.log("Sannu Duniya!, שלום עולם!, Hei Verden!")
+const SannuDuniya = "Hello World!"
+const HeiVerden = "Hello World!"
+const שלוםעולם = "Hello World!"
+
+function tradutorUniversal (en) {
+SannuDuniya, HeiVerden, שלוםעולם
+console.log("Olá Mundo!")
 }
 
-tradutorAutomatico()
+tradutorUniversal()
